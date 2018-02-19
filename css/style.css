@@ -1,0 +1,33 @@
+body {
+  background-color: #81CBC8;
+}
+.post {
+  margin: 20px;
+  background-color: #3D9999;
+  color: black;
+}
+
+.title {
+  font-size: 2em;
+  color: orange;
+}
+.post a{
+  color: #4F2F36;
+}
+h1{
+  color: white;
+}
+.ui-autocomplete {
+  background-color: white;
+  list-style: none;
+  padding: 2px;
+}
+.ui-autocomplete li:hover{
+  background-color: #eee;
+}
+button {
+  display: inline;
+}
+.ui-helper-hidden-accessible{
+  display:none;
+}
